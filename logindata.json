@@ -1,0 +1,22 @@
+[
+    {   "country_code":"+91",
+        "phone": "7972774069",
+        "password": "123"
+
+    },
+
+    {   "country_code":"+1",
+        "phone": "7972778888",
+        "password": ""
+    
+    },
+    {   "country_code":"",
+        "phone": "*******",
+        "password": "123"
+    },
+    {   "country_code":"91",
+        "phone": "9922098768",
+        "password": "123"
+    }
+
+]
